@@ -13,7 +13,7 @@ mail.prototype.sendmail = function (To, Subject, data) {
       service: 'gmail',
       auth: {
         user: 'mr.radheshyam.980@gmail.com',
-        pass: 'Radheshyam@980089'
+        pass: ''
       }
     });
 
